@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "console-programlama", "console-programlama\console-programlama.csproj", "{223CD087-8C2A-4245-B1B3-5670599B6FBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Degiskenler", "Degiskenler\Degiskenler.csproj", "{7E30FF2E-8604-408A-900E-3A143F69B87C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{223CD087-8C2A-4245-B1B3-5670599B6FBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{223CD087-8C2A-4245-B1B3-5670599B6FBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{223CD087-8C2A-4245-B1B3-5670599B6FBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{223CD087-8C2A-4245-B1B3-5670599B6FBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E30FF2E-8604-408A-900E-3A143F69B87C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E30FF2E-8604-408A-900E-3A143F69B87C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E30FF2E-8604-408A-900E-3A143F69B87C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E30FF2E-8604-408A-900E-3A143F69B87C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3DFB0AA-72A2-4B89-AB71-38D96CA6249E}
+	EndGlobalSection
+EndGlobal
