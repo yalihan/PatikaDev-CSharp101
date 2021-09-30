@@ -6,9 +6,9 @@ namespace console_programlama
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("İsminizi Giriniz: ");
+            Console.WriteLine("İsminiz: ");
             string name = Console.ReadLine();
-            Console.WriteLine("Soyisminizi Giriniz: ");
+            Console.WriteLine("Soyisminiz: ");
             string surName = Console.ReadLine();
             Console.WriteLine("Hoşgeldiniz " + name + " " + surName);
         }
