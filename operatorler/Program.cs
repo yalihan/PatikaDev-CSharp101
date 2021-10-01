@@ -26,7 +26,7 @@ namespace operatorler
             bool isSuccess = true;
             bool isCompleted = false;
 
-            if(isSuccess && isCompleted)
+            if (isSuccess && isCompleted)
                 Console.WriteLine("İkisi beraber doğru ise");
             if (isSuccess || isCompleted)
                 Console.WriteLine("İkisinden biri doğru ise");
@@ -54,7 +54,7 @@ namespace operatorler
             Console.WriteLine(iliskiselSonuc);
             iliskiselSonuc = a != b;
             Console.WriteLine(iliskiselSonuc);
-            
+
             // Aritmetik Operatörler --> + , - , * , / , ++(bir artırır) , --(bir eksiltir) , %(mod alır)
             Console.WriteLine("\n\n\n*** Aritmetik Operatörler --> + , - , * , / , ++(bir artırır) , --(bir eksiltir) , %(mod alır) ***\n");
 
