@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "musvette", "musvette\musvet
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HataYonetimi", "HataYonetimi\HataYonetimi.csproj", "{D80D1B89-8B9C-4319-8C7B-0134A39C3FEE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IfElseIf", "IfElseIf\IfElseIf.csproj", "{9173B99D-6E47-4E29-AD62-8CAD5713FB02}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{D80D1B89-8B9C-4319-8C7B-0134A39C3FEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D80D1B89-8B9C-4319-8C7B-0134A39C3FEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D80D1B89-8B9C-4319-8C7B-0134A39C3FEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9173B99D-6E47-4E29-AD62-8CAD5713FB02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9173B99D-6E47-4E29-AD62-8CAD5713FB02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9173B99D-6E47-4E29-AD62-8CAD5713FB02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9173B99D-6E47-4E29-AD62-8CAD5713FB02}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
