@@ -74,6 +74,15 @@ namespace Degiskenler
             ulong       enKucukULong        =   0;
             ulong       enBuyukULong        =   18446744073709551615;
 
+            float       enKucukFloat        =  -3.40282347E+38f;
+            float       enBuyukFloat        =   3.40282347E+38f;
+
+            double      enKucukDouble       =  -1.7976931348623157E+308;
+            double      enBuyukDouble       =   1.7976931348623157E+308;
+
+            decimal     enKucukDecimal      =  -79228162514264337593543950335M;
+            decimal     enBuyukDecimal      =   79228162514264337593543950335M;
+
 
             // Datetime ın property(özellik) ve fonksiyonlarına yakından bakmak için:
 
