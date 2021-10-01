@@ -8,7 +8,7 @@ namespace Degiskenler
         {
             /* Veri tipleri kaç tane değer alır ?
              
-             --> Tam Sayılar
+             ---> Tam Sayılar
 
              * bool    -->     00 Byte     =   01 Bit  =   2^01    =                                         2 tane değer alır
              * byte    -->     01 Byte     =   08 Bit  =   2^08    =                                       256 tane değer alır
@@ -16,7 +16,7 @@ namespace Degiskenler
              * int     -->     04 Byte     =   32 Bit  =   2^32    =                             4.294.967.296 tane değer alır
              * long    -->     08 Byte     =   64 Bit  =   2^64    =                18.446.744.073.709.551.616 tane değer alır
              
-             --> Reel Sayılar
+             ---> Reel Sayılar
 
              * float   -->     04 Byte     =   32 Bit  =   2^32    =                             4.294.967.296 tane değer alır
              * double  -->     08 Byte     =   64 Bit  =   2^64    =                18.446.744.073.709.551.616 tane değer alır
@@ -30,7 +30,7 @@ namespace Degiskenler
              * Başında unsigned(işaretsiz) anlamına gelen 'u' olanlar;    Aldıkları değer sayısının tamamını da sıfırdan büyük alırlar.
              * byte için --> başında signed(işaretli) anlamına gelen 's' varsa sıfırdan önce ve sonra bölüşür, yoksa hepsini sıfırdan büyük alır.
              
-             --> Sadece pozitif değerleri alabilenler
+             ---> Sadece pozitif değerleri alabilenler
 
              *                          0 <=   bool    <=   1
              *                          
@@ -39,7 +39,7 @@ namespace Degiskenler
              *                          0 <=   uint    <=   4.294.967.295
              *                          0 <=   ulong   <=   18.446.744.073.709.551.616
              
-             --> Negatif değerleri de pozitif değerleri de alabilenler
+             ---> Negatif değerleri de pozitif değerleri de alabilenler
 
              *                       -128 <=   sbyte   <=   127          
              *                    -32.768 <=   short   <=   32.767
@@ -84,13 +84,9 @@ namespace Degiskenler
             decimal     enBuyukDecimal      =   79228162514264337593543950335M;
 
 
-            // Datetime ın property(özellik) ve fonksiyonlarına yakından bakmak için:
+            // Datetime ın property(özellik) ve fonksiyonlarına yakından bakmak için: https://docs.microsoft.com/tr-tr/dotnet/api/system.datetime?view=netcore-3.1
 
-            // https://docs.microsoft.com/tr-tr/dotnet/api/system.datetime?view=netcore-3.1
-
-            // String kütüphanesinin fonksiyonlarına yakından bakmak için :
-
-            // https://docs.microsoft.com/tr-tr/dotnet/api/system.string?view=netcore-3.1
+            // String kütüphanesinin fonksiyonlarına yakından bakmak için : https://docs.microsoft.com/tr-tr/dotnet/api/system.string?view=netcore-3.1
 
         }
     }
