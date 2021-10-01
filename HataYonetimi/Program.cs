@@ -31,8 +31,8 @@ namespace HataYonetimi
             Console.WriteLine("\n\n\n***Tipe bağlı catching***\n");
             try
             {
-                //int nullException = int.Parse(null);
-                //int formatException = int.Parse("test");
+                int nullException = int.Parse(null);
+                int formatException = int.Parse("test");
                 int overFlowExcepiton = int.Parse("20000000000");
             }
             catch (ArgumentNullException benimNullHatam)
