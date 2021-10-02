@@ -9,23 +9,25 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleProgramlama", "Conso
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Operatorler", "Operatorler\Operatorler.csproj", "{122DAEBC-0526-4BDC-BF7B-A3276966302E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TipDonusumleri", "TipDonusumleri\TipDonusumleri.csproj", "{1767FB2E-7853-48C6-8596-D2AB1302DCF2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TipDonusumleri", "TipDonusumleri\TipDonusumleri.csproj", "{1767FB2E-7853-48C6-8596-D2AB1302DCF2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "musvette", "musvette\musvette.csproj", "{03A128B3-DF0B-40D3-8ACA-70E55A3A4874}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "musvette", "musvette\musvette.csproj", "{03A128B3-DF0B-40D3-8ACA-70E55A3A4874}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HataYonetimi", "HataYonetimi\HataYonetimi.csproj", "{D80D1B89-8B9C-4319-8C7B-0134A39C3FEE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HataYonetimi", "HataYonetimi\HataYonetimi.csproj", "{D80D1B89-8B9C-4319-8C7B-0134A39C3FEE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IfElseIf", "IfElseIf\IfElseIf.csproj", "{9173B99D-6E47-4E29-AD62-8CAD5713FB02}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IfElseIf", "IfElseIf\IfElseIf.csproj", "{9173B99D-6E47-4E29-AD62-8CAD5713FB02}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchCase", "SwitchCase\SwitchCase.csproj", "{CB7507DF-DCAF-4553-902B-A0000895F127}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SwitchCase", "SwitchCase\SwitchCase.csproj", "{CB7507DF-DCAF-4553-902B-A0000895F127}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DongulerForLoop", "DongulerForLoop\DongulerForLoop.csproj", "{80E236D6-FA56-44F2-B575-E66EE81AC226}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DongulerForLoop", "DongulerForLoop\DongulerForLoop.csproj", "{80E236D6-FA56-44F2-B575-E66EE81AC226}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DongulerWhileForeach", "DongulerWhileForeach\DongulerWhileForeach.csproj", "{F3A563D5-31E9-43CF-A6FE-208BB6525C91}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DongulerWhileForeach", "DongulerWhileForeach\DongulerWhileForeach.csproj", "{F3A563D5-31E9-43CF-A6FE-208BB6525C91}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diziler", "Diziler\Diziler.csproj", "{EE64B704-E78E-4328-9DBC-3D9AA28361FA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Diziler", "Diziler\Diziler.csproj", "{EE64B704-E78E-4328-9DBC-3D9AA28361FA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DizilerArraySinifiMetodlari", "DizilerArraySinifiMetodlari\DizilerArraySinifiMetodlari.csproj", "{E011502F-EE4C-4200-A088-2328E1CC3409}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DizilerArraySinifiMetodlari", "DizilerArraySinifiMetodlari\DizilerArraySinifiMetodlari.csproj", "{E011502F-EE4C-4200-A088-2328E1CC3409}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metotlar", "Metotlar\Metotlar.csproj", "{2877AF5C-3935-4B3D-AD3D-B69C1163B9CD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{E011502F-EE4C-4200-A088-2328E1CC3409}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E011502F-EE4C-4200-A088-2328E1CC3409}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E011502F-EE4C-4200-A088-2328E1CC3409}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2877AF5C-3935-4B3D-AD3D-B69C1163B9CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2877AF5C-3935-4B3D-AD3D-B69C1163B9CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2877AF5C-3935-4B3D-AD3D-B69C1163B9CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2877AF5C-3935-4B3D-AD3D-B69C1163B9CD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
