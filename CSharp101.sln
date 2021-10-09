@@ -29,13 +29,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DizilerArraySinifiMetodlari
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metotlar", "Metotlar\Metotlar.csproj", "{2877AF5C-3935-4B3D-AD3D-B69C1163B9CD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetotlarOverloading", "MetotlarOverloading\MetotlarOverloading.csproj", "{54D28A3C-040B-4005-AE18-A1C2DBF99BE6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MetotlarOverloading", "MetotlarOverloading\MetotlarOverloading.csproj", "{54D28A3C-040B-4005-AE18-A1C2DBF99BE6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursiveExtensionMetotlar", "RecursiveExtensionMetotlar\RecursiveExtensionMetotlar.csproj", "{82B960E5-86F1-4EFC-82E8-5188542E4E6E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecursiveExtensionMetotlar", "RecursiveExtensionMetotlar\RecursiveExtensionMetotlar.csproj", "{82B960E5-86F1-4EFC-82E8-5188542E4E6E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odev1", "Odev1\Odev1.csproj", "{57B88662-2D97-4C40-9359-CC5F7B9D5089}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Odev1", "Odev1\Odev1.csproj", "{57B88662-2D97-4C40-9359-CC5F7B9D5089}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HazirMetotlarString", "HazirMetotlarString\HazirMetotlarString.csproj", "{B9D0C917-559D-4F0A-98DD-01A64C51E8AF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HazirMetotlarString", "HazirMetotlarString\HazirMetotlarString.csproj", "{B9D0C917-559D-4F0A-98DD-01A64C51E8AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HazirMetotlarDateTimeMath", "HazirMetotlarDateTimeMath\HazirMetotlarDateTimeMath.csproj", "{60F749C0-F76A-438D-80EE-696CA07D3A22}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +113,10 @@ Global
 		{B9D0C917-559D-4F0A-98DD-01A64C51E8AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B9D0C917-559D-4F0A-98DD-01A64C51E8AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B9D0C917-559D-4F0A-98DD-01A64C51E8AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60F749C0-F76A-438D-80EE-696CA07D3A22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60F749C0-F76A-438D-80EE-696CA07D3A22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60F749C0-F76A-438D-80EE-696CA07D3A22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60F749C0-F76A-438D-80EE-696CA07D3A22}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
