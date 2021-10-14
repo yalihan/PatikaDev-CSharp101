@@ -67,6 +67,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EnumKavrami", "EnumKavrami\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InheritenceKavrami", "InheritenceKavrami\InheritenceKavrami.csproj", "{A2D01288-A767-47FE-B0EA-BDB1B4BCC702}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arayuzler", "Arayuzler\Arayuzler.csproj", "{CE8EA49A-025E-4E73-B827-3892EF2BC1BF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -197,6 +199,10 @@ Global
 		{A2D01288-A767-47FE-B0EA-BDB1B4BCC702}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A2D01288-A767-47FE-B0EA-BDB1B4BCC702}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A2D01288-A767-47FE-B0EA-BDB1B4BCC702}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE8EA49A-025E-4E73-B827-3892EF2BC1BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE8EA49A-025E-4E73-B827-3892EF2BC1BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE8EA49A-025E-4E73-B827-3892EF2BC1BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE8EA49A-025E-4E73-B827-3892EF2BC1BF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
